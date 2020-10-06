@@ -1,15 +1,15 @@
 # Guide to Coop
-I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help.
+I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. A friend of mine co-wrote [this guide](https://evykassirer.github.io/playing-the-internship-game/) which is more comprehensive.
 
 ### Whos is this guide for?
-People who want more success in the UWaterloo co-op system, specifically people looking for Software jobs. 
+People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be for you, I hear the job market is terrible and that's all I know about it.
 
 ### Why is my advice worth anything?
 Skip this section if you don't care.
 
-I was a fuckup, but "made it" anyways. My first coop I got through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. We wrote automated tests that were flaky and useless (some fulltime got his high-school kid to do our job for two weeks and they did more in those two weeks than we did in a month). I didn't learn anything. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping a button on six android phones, filling in a spreadsheet when something breaks, and trying not to think about my failures. I'm not a huge brain genius that got Google first term or something. I was a lazy waste. 
+I was a fuckup, but "made it" anyways. My first coop I got through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. We wrote automated tests that were flaky and useless (some fulltime got his high-school kid to do our job for two weeks and they did more in those two weeks than we did in a month). I didn't learn anything. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping buttons on android phones, filling in spreadsheets when something breaks, and trying not to think about my failures. I'm not a huge brain genius that got Google first term or something. I was a lazy waste. 
 
-But then I started taking coop seriously, tried a bunch of things (which I will list), and I ended up getting a two successively better Toronto dev jobs. Then I made it to cali: a Stripe internship, then a Facebook internship (I'm at Stripe full time now).
+But then I started taking coop seriously, tried a bunch of things (which I will list), and I ended up getting a two successively better Toronto dev jobs. Then I made it to Cali: a Stripe internship, then a Facebook internship (I'm at Stripe full time now).
 
 This is only my experience, but I've been told "thanks for the help" and "that's good advice" enough times that I think this'll be helpful to a lot of people.
 
@@ -42,6 +42,8 @@ If you have trouble, start with the easy problems, the easiest you can find, and
 
 Get at least three people to review your resume. Don't just ask one or two people, get multiple. Especially look for people that get decent jobs. Why at least three people? Because each person has their own weird ideas or is going to focus on some specific problem, but when you get a lot of people looking you can get a comprehensive critique that is less biased. Write down everything that people say, don't try to memorize it. Whenever I critique a resume I ask people to write things down otherwise there's no point. 
 
+Read the section on resumes from the book Cracking the Coding Interview. In general UWaterloo has a pretty good machine for refining resumes into a good format.
+
 ### Interview Practice
 
 But Leetcode isn't enough. Well, it is, but there's still work to be done. 
@@ -52,22 +54,23 @@ Well, this is also solveable through practice: [pramp.com](https://www.pramp.com
 
 How it works is this: you schedule an interview, join the google hangouts, answer a problem for thirty minutes, get feedback, and then do the same for your partner. You'll learn quickly to narrate everything you think out loud, to show your problem solving process, and most critically you'll get a lot less nerves during interviews. Before pramp interviews I would get the exact same nerves as real interviews, but after the fifth interview I felt nothing. 
 
+### Failure
+Most likely you didn't get that sick dev job, and are doing QA, or IT, or something else that's not dev. That's fine, that's how I started, and that's how thousands of other students before you have started. But remember every shitty day at work and work to make sure that never happens again. Uninstall your video games, stop talking to friends that invite you to play league, block reddit and twitch, uninstall windows and switch to linux, whatever it takes to get you side projecting or leetcoding. It's probably mentally unhealthy to obsess, but success tastes sweet and I fueled my side projects with anxiety about my career and failure. 
 
 ### The offer
-Negotiate. They will _never_ take away your offer because you tried to negotiate. Always ask for a few dollars more, especially if you have a competing offer. Just ask nicely, "Hey, could you increase the salary from 20 to 24 an hour? I would feel a lot more confident about my decision if you could do that to me." If they say something like "HR won't let me" that's a lie, but at least you know they won't negotiate.
+If you do get an offer: Negotiate. They will _never_ take away your offer because you tried to negotiate. Always ask for a few dollars more, especially if you have a competing offer. Just ask nicely, "Hey, could you increase the salary from 20 to 24 an hour? I would feel a lot more confident about my decision if you could do that to me." or "I have an offer from AutoSoft, and while I would love to work with you, I couldn't justify it if I could get more there.". If they say something like "HR won't let me" that's a lie, but you probably don't have enough leverage to negotiate anyway. I used to negotiate for jobs I knew I wasn't going to take just to practice.
 
-It can feel super scary to ask for more, especially if you feel lucky to even get the offer, but you should get into the habit. I fail to negotiate all the time, but in retrospect it's always worth it. More info here. (TODO link https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+It can feel super scary to ask for more, especially if you feel lucky to even get the offer, but you should get into the habit. I fail to negotiate all the time, but in retrospect it's always worth it. More [info for fulltime here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ### On the job
 Nice, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. 
 
-But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Go up to Resumes and reread if it's not fresh in your memory (TODO link).
-
-Aim for projects or tasks that lend themselves to interview lines.
-
+But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Look for projects that have _measureable_ impact and look good. Aim for projects or tasks that lend themselves to interview lines, something that'll get you a "23% faster" or "2x increase in" in your job bullet points.
 
 
 
 
 ### Misc
-I accept PR's. This advice is certainly not for everyone.
+If this guide helped please let me know. Either email me, hit me up on [twitter](twitter.com/zvorygin) or whatever works for you. 
+
+I accept PR's.
