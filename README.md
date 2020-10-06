@@ -1,14 +1,14 @@
 # Guide to Coop
-I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. Otherwise here's distilled advice that should apply to everyone.
+I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help.
 
 ### Why is my advice worth anything?
 Skip this section if you don't care.
 
-Because I was a fuckup, but "made it" anyways. My first coop I got through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. Second coop was worse: back in the day you couldn't no rank a job offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping a button on six android phones, filling in a spreadsheet when something breaks, and lamenting my failures. I'm not a huge brain genius that got Google first term or something. I was a lazy waste.
+Because I was a fuckup, but "made it" anyways. My first coop I got through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. I didn't learn anything. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping a button on six android phones, filling in a spreadsheet when something breaks, and trying not to think about my failures. I'm not a huge brain genius that got Google first term or something. I was a lazy waste. 
 
-Then I started taking coop seriously, tried a bunch of things, and I ended up getting a two successively better Toronto dev jobs. Then I got cali: a Stripe internship, then a Facebook internship (I'm at Stripe full time now).
+But then I started taking coop seriously, tried a bunch of things, and I ended up getting a two successively better Toronto dev jobs. Then I made it to cali: a Stripe internship, then a Facebook internship (I'm at Stripe full time now).
 
-This is only my experience, but I've been told "thanks for the help" and "that's good advice" enough times that I think this'll be helpful to some people.
+This is only my experience, but I've been told "thanks for the help" and "that's good advice" enough times that I think this'll be helpful to a lot of people.
 
 
 ### The most important details:
