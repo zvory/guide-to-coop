@@ -2,7 +2,7 @@
 I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. A friend of mine co-wrote [this guide](https://evykassirer.github.io/playing-the-internship-game/) which is way more comprehensive, so I recommend you check that out as well.
 
 ### Whos is this guide for?
-People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be for you, I hear the job market is terrible and that's all I know about it.
+People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be useful, I hear the job market is terrible and that's all I know.
 
 ### Why is my advice worth anything?
 Skip this section if you don't care.
@@ -28,8 +28,9 @@ Side projects will get you your first dev jobs, and after that they matter less.
  
 
 ### Leetcode
+There's a straight conversion between leetcode problems and annual salary: ten leetcode problems is +$2000 a year annual salary. This is an approximation based on my experience, but I want to make it clear that if you do one hundred leetcode problems you're going to have a much easier time with your early career.
 
-Every ten leetcode problems you do is +$2000 a year annual salary. If you do a hundred problems, you have a good chance at passing the Facebook internship interviews. For Facebook I walked into the interview, exchanged greetings, and then worked on the problem until the time was up, said thanks, and left. There were never any behavioural questions, never a "why do you want to work at this company", just pure leetcode. A lot of companies are very similar.
+If you do a hundred problems, you have a good chance at passing the Facebook internship interviews. For Facebook I walked into the interview, exchanged greetings, and then worked on the problem until the time was up, said thanks, and left. There were never any behavioural questions, never a "why do you want to work at this company", just pure leetcode. A lot of companies are very similar, so it's the only thing you have to get good at.
 
 But you have to do leetcode the right way. You get one submission. No IDE's, no test runs. Just type into the leetcode.com in-browser editor, test everything in your head or on a piece of paper. If you don't submit perfectly first try, **you're wrong and you failed the interview**. You _must_ be able to run through all the possible test cases before submitting, and leetcode will force you to get good at this. If your mistake was something silly like you forgot about handling empty inputs _you're wrong_. Maximize your acceptance rate on leetcode, you can see that on your profile.
 
@@ -55,19 +56,21 @@ Well, this is also solveable through practice: [pramp.com](https://www.pramp.com
 How it works is this: you schedule an interview, join the google hangouts, answer a problem for thirty minutes, get feedback, and then do the same for your partner. You'll learn quickly to narrate everything you think out loud, to show your problem solving process, and most critically you'll get a lot less nerves during interviews. Before pramp interviews I would get the exact same nerves as real interviews, but after the fifth interview I felt nothing. 
 
 ### Failure
-Most likely you didn't get that sick dev job, and are doing QA, or IT, or something else that's not dev. That's fine, that's how I started, and that's how thousands of other students before you have started. But remember every shitty day at work and work to make sure that never happens again. Uninstall your video games, stop talking to friends that invite you to play league, block reddit and twitch, uninstall windows and switch to linux, whatever it takes to get you side projecting or leetcoding. It's probably mentally unhealthy to obsess, but success tastes sweet and I fueled my side projects with anxiety about my career and failure. 
+Most likely you didn't get that sick dev job, and are doing QA, or IT, or something else that's not dev. That's fine, that's how I started, and that's how thousands of other students before you have started. But remember every shitty day at work and work to make sure that never happens again. Uninstall your video games, stop talking to friends that invite you to play league, block reddit and twitch, uninstall windows and switch to linux, whatever it takes to get you side projecting or leetcoding. 
+
+It's probably mentally unhealthy to obsess, but success tastes sweet and I fueled my side projects with anxiety about my career and failure. I would see my future stretching out in front of me, constantly doing shit jobs and shit companies, watching all my friends be succesfull and happy, and that would motivate me. Should you do this? I feel like ethically I can't recommend it, some people reading this might already be super obsessive and neurotic, and this validation they should obsess more will destroy them. I don't want to have someone wracked with anxiety to get even more anxiety after reading this. At the same time when I see people say "don't worry too much" and "you'll get the good coops eventually" I get angry because I hard disagree with that.
+
+I intentionally feed my anxiety and got nightmares about work, but it worked out for me. I'm mentally healthy and happy, and getting my career started was the first bit of confidence I needed to build the rest of myself up.
 
 ### The offer
-If you do get an offer: Negotiate. They will _never_ take away your offer because you tried to negotiate. Always ask for a few dollars more, especially if you have a competing offer. Just ask nicely, "Hey, could you increase the salary from 20 to 24 an hour? I would feel a lot more confident about my decision if you could do that to me." or "I have an offer from AutoSoft, and while I would love to work with you, I couldn't justify it if I could get more there.". If they say something like "HR won't let me" that's a lie, but you probably don't have enough leverage to negotiate anyway. I used to negotiate for jobs I knew I wasn't going to take just to practice.
+If you do get an offer: Negotiate. They will _never_ take away your offer because you tried to negotiate. Always ask for a few dollars more, especially if you have a competing offer. Just ask nicely, "Hey, could you increase the salary from 20 to 24 an hour? I would feel a lot more confident about my decision if you could do that to me." or "I have an offer from AutoSoft, and while I would love to work with you, I couldn't justify it if I could get more there.". If they say something like "HR won't let me" that's a lie, but you probably don't have enough leverage to negotiate anyway. I used to negotiate for jobs (and return offers) I knew I wasn't going to take just to practice or have leverage. This advice is more important for fulltime, but it's good to get into the habit now.
 
-It can feel super scary to ask for more, especially if you feel lucky to even get the offer, but you should get into the habit. I fail to negotiate all the time, but in retrospect it's always worth it. More [info for fulltime here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+It can feel super scary to ask for more, especially if you feel lucky to even get the offer. I still get too scared, but in retrospect it's always worth it. More [info for fulltime here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ### On the job
 Nice, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. 
 
-But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Look for projects that have _measureable_ impact and look good. Aim for projects or tasks that lend themselves to interview lines, something that'll get you a "23% faster" or "2x increase in" in your job bullet points.
-
-
+But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Look for projects that have _measureable_ impact and look good. Aim for projects or tasks that lend themselves to interview lines, something that'll get you a "23% faster" or "2x increase in" in your job bullet points. Move the needle on some quantifiable metrics.
 
 
 ### Misc
