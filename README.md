@@ -1,5 +1,5 @@
 # Guide to Coop
-I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. A friend of mine co-wrote [this guide](https://evykassirer.github.io/playing-the-internship-game/) which is more comprehensive.
+I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. A friend of mine co-wrote [this guide](https://evykassirer.github.io/playing-the-internship-game/) which is way more comprehensive, so I recommend you check that out as well.
 
 ### Whos is this guide for?
 People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be for you, I hear the job market is terrible and that's all I know about it.
