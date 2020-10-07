@@ -2,7 +2,7 @@
 I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. A friend of mine co-wrote [this guide](https://evykassirer.github.io/playing-the-internship-game/) which is way more comprehensive, so I recommend you check that out as well.
 
 ### Whos is this guide for?
-People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be useful, I hear the job market is terrible and that's all I know. Additionally if you already get good jobs and are happy with your coop's, this advice may not be helpful.
+People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be useful, I hear the job market is terrible and that's all I know. Additionally if you already get good jobs and are happy with your coops, this advice may not be helpful.
 
 ### Why is my advice worth anything?
 Skip this section if you don't care.
@@ -22,7 +22,7 @@ Apply to fifty companies every time. Until you're consistently getting interview
 
 ### Side projects
 
-In first and second year, side projects are king. Some companies care about grades (Google, Wish, others probably), but side projects will get you that Southern Ontario dev job that'll kickstart your career. You can start big, but you can also start with a small discord bot, or making a personal website from scratch. My best strategy for side projects was joining hackathons with a friend or two I trust, and then trying really hard to get something that looks good on a resume. It's really easy to code at a hackathon, you don't have to force yourself to do it.
+In first and second year, side projects are king. Some companies care about grades (Google, Wish, others probably), but side projects will get you that Southern Ontario dev job that'll kickstart your career. You can start big, but you can also start with a small discord bot, or making a personal website from scratch. My best strategy for side projects was joining hackathons with a friend or two I trust, and then trying really hard to get something that looks good on a resume. It's really easy to code at a hackathon, you don't have to force yourself to do it. But everyone will probably have their own strategy that works for them.
 
 Side projects will get you your first dev jobs, and after that they matter less. But first you have to pass your interviews:
  
