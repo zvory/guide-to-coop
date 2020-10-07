@@ -2,12 +2,12 @@
 I've helped a lot of people with advice about coop, and a lot of the time the advice is the same. Here's that advice distilled. If you want to talk to me personally, email me at grafetu@gmail.com and I'll try to help. A friend of mine co-wrote [this guide](https://evykassirer.github.io/playing-the-internship-game/) which is way more comprehensive, so I recommend you check that out as well.
 
 ### Whos is this guide for?
-People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be useful, I hear the job market is terrible and that's all I know. However if you already get good jobs or are ahead of your peers, this advice may not be helpful.
+People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be useful, I hear the job market is terrible and that's all I know. Additionally if you already get good jobs and are happy with your coop's, this advice may not be helpful.
 
 ### Why is my advice worth anything?
 Skip this section if you don't care.
 
-I was a fuckup, but "made it" anyways. My first coop I got through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. A fulltime got his high-school kid to do our job for two weeks and they did more in those two weeks than we did in a month. I didn't learn anything. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping buttons on android phones, filling in spreadsheets when something breaks, and trying not to think about my failures. I'm not a huge brain genius that got Google first term or something. I was a lazy waste, and I started with two QA jobs. 
+I was a fuckup, but "made it" anyways. My first coop was automated QA and I got it through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. A fulltime got his high-school kid to do our job for two weeks and they did more in those two weeks than we did in a month. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping buttons on android phones, filling in spreadsheets when something breaks, and trying not to think about my failures. I'm not a genius keener that got Google first term or something. I was a lazy waste, and I started with QA jobs. 
 
 But then I started taking coop seriously, tried a bunch of things (which I will list), and I ended up getting two successively better Toronto dev jobs. Then I made it to Cali: a Stripe internship, then a Facebook internship (I'm at Stripe full time now).
 
@@ -18,11 +18,11 @@ This is only my experience, but I've been told "thanks for the help" and "that's
 
 ### WaterlooWorks
 
-Apply to fifty companies every time. Until you're consistently getting interviews with all the companies you want, max out your applications every time. Go to every interview, and use them as an opportunity to practice. If you don't care about the job, then there's no pressure to perform.
+Apply to fifty companies every time. Until you're consistently getting interviews with all the companies you want, max out your applications every time. Go to every interview, and use them as an opportunity to practice. If you don't care about the job, then there's no pressure to perform. Sometimes I think showing up late, with a skateboard and coffee in hand makes the interviewers more impressed.
 
 ### Side projects
 
-In first and second year, side projects are king. Some companies care about grades (Google, Wish, others probably), but side projects will get you that Southern Ontario dev job that'll kickstart your career. You can start big, but you can also start with a small discord bot, or making a personal website. My best strategy for side projects was joining hackathons with a friend or two I trust, and then trying really hard to get something that looks good on a resume. It's really easy to code at a hackathon, you don't have to force yourself to do it.
+In first and second year, side projects are king. Some companies care about grades (Google, Wish, others probably), but side projects will get you that Southern Ontario dev job that'll kickstart your career. You can start big, but you can also start with a small discord bot, or making a personal website from scratch. My best strategy for side projects was joining hackathons with a friend or two I trust, and then trying really hard to get something that looks good on a resume. It's really easy to code at a hackathon, you don't have to force yourself to do it.
 
 Side projects will get you your first dev jobs, and after that they matter less. But first you have to pass your interviews:
  
