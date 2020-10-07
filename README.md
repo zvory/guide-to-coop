@@ -62,11 +62,11 @@ If you do get an offer: negotiate. They will _never_ take away your offer becaus
 It can feel super scary to ask for more, especially if you feel lucky to even get the offer. I still get too scared, but in retrospect it's always worth it. More [info for fulltime here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/).
 
 ### On the job
-Good _job_, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. Looking stupid doesn't matter if the first three months. It's good to be the type of person that asks a lot of basic questions for months, and before you know it, they know everything and people are coming to them for help.
+Nice, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. Looking stupid doesn't matter if the first three months. It's good to be the type of person that asks a lot of basic questions for months, and before you know it, they know everything and people are coming to them for help.
 
 But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Look for projects that have _measureable_ impact and look good. Aim for projects or tasks that lend themselves to interview lines, something that'll get you a "23% faster" or "2x increase in" in your job bullet points. Move the needle on some quantifiable metrics.
 
 ## Misc
 If this guide helped please let me know. Email me, hit me up on [twitter](twitter.com/zvorygin) or whatever else works for you. If it didn't help or you disagree, please reach out as well.
 
-PRs are welcome.
+I accept PRs.
