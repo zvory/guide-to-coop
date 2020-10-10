@@ -25,13 +25,13 @@ Side projects will get you your first dev jobs, and after that they matter less.
  
 
 ### Leetcode
-There's a straight conversion between leetcode problems and annual salary: ten leetcode problems is +$2000 a year annual salary. This is an approximation based on my experience, but I want to make it clear that if you do one hundred leetcode problems you're going to have a much easier time with your early career.
+There's a straight conversion between [leetcode](https://leetcode.com/) problems and annual salary: ten leetcode problems is +$2000 a year annual salary. This is an approximation based on my experience, but I want to make it clear that if you do one hundred leetcode problems you're going to have a much easier time with your early career.
 
 If you do a hundred problems, you have a good chance at passing the Facebook internship interviews. For Facebook I walked into the interview, exchanged greetings, and then worked on the problem until the time was up, said thanks, and left. There were never any behavioural questions, never a "why do you want to work at this company", just pure leetcode. A lot of companies are very similar, so it's the **only thing you have to get good at**. Most companies aren't like Facebook, but the algorithm part of the interview is usually the most important part.
 
 But you have to do leetcode the right way. You get one submission. No IDE's, no test runs. Just type into the leetcode.com in-browser editor, test everything in your head or on a piece of paper. If you don't submit perfectly first try, **you're wrong and you failed the interview**. You _must_ be able to run through all the possible test cases before submitting, and leetcode will force you to get good at this. If your mistake was something silly like you forgot about handling empty inputs _you're wrong_. Maximize your acceptance rate on leetcode, you can see that on your profile. Of course, in a real interview mistakes are usually fine, but you must train hard so it's easy in practice. An amateur musician practices until they can play a song, a pro practices until they can't get it wrong. If solving the algorithm question takes ten percent of your brain, you can use the other 90% being likeable and explaining your reasoning. 
 
-To be clear: leetcode is really hard! I was so bad at it at first I avoided doing it because it made me feel stupid do fail these basic easy problems. My friends could do the problems just fine and would act as if they were easy, so I stopped doing leetcode because I didn't want to think about how I was so dumb. But eventually I started to get some success, and I started being able to do the problems.
+To be clear: leetcode is really hard! I was so bad at it at first I avoided doing it because it made me feel stupid to fail these basic easy problems. My friends could do the problems just fine and would act as if they were easy, so I stopped doing leetcode because I didn't want to think about how I was so dumb. But eventually I started to get some success, and I started being able to do the problems.
 
 If you have trouble, start with the easy problems, the easiest you can find, and if that's too hard, just keep at it. Maybe peek at the solutions, or try to google a bit for some help. Leetcode is just a skill, like chess or lifting weights, you can just practice and shoot up in skill, even if it feels overwhelming and confusing at the start. You don't need a huge brain, you just need to practice. Keep at it.
 
@@ -39,6 +39,9 @@ If you have trouble, start with the easy problems, the easiest you can find, and
 Get at least three people to review your resume. Don't just ask one or two people, get multiple. Especially look for people that get decent jobs. Why at least three people? Because each person has their own weird ideas or is going to focus on some specific problem, but when you get a lot of people looking you can get a comprehensive critique that is less biased. Write down everything that people say, don't try to memorize it. Whenever I critique a resume I ask people to write things down otherwise there's no point.
 
 Read the section on resumes from the book Cracking the Coding Interview. In general UWaterloo has a pretty good machine for refining resumes into a good format.
+
+Don't listen to any advice from CECA with respect to resumes. They're actively bad and will make your resume worse. They were terrible when I was a student, and by all indications still are.
+
 
 ### Interview Practice
 Interview practice solves two problems: nerves, and verbalisation.
@@ -61,7 +64,7 @@ I intentionally fed my anxiety, eventually getting nightmares about work, but it
 ### The offer
 If you do get an offer: negotiate. They will _never_ take away your offer because you tried to negotiate. Always ask for a few dollars more, especially if you have a competing offer. Just ask nicely, "Hey, could you increase the salary from 20 to 24 an hour? I would feel a lot more confident about my decision if you could do that for me" or "I have an offer from AutoSoft, and while I would love to work with you, I couldn't justify it if I could get more there". If they say something like "HR won't let me" that's a lie, but you probably don't have enough leverage to negotiate anyway. I used to negotiate for jobs (and return offers) I knew I wasn't going to take just to practice or get better leverage. This advice is more important for fulltime, but it's good to get into the habit now.
 
-It can feel super scary to ask for more, especially if you feel lucky to even get the offer. I still get too scared, but in retrospect it's always worth it. More [info for fulltime here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/).
+It can feel super scary to ask for more, especially if you feel lucky to even get the offer. I still get too scared, but in retrospect it's always worth it to negotiate. More [info for fulltime here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/).
 
 ### On the job
 Nice, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. Looking stupid doesn't matter in the first three months. It's good to be the type of person that asks a lot of basic questions for months, and before you know it, they know everything and people are coming to them for help.
