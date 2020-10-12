@@ -38,7 +38,9 @@ If you have trouble, start with the easy problems, the easiest you can find, and
 ### Resumes
 Get at least three people to review your resume. Don't just ask one or two people, get multiple. Especially look for people that get decent jobs. Why at least three people? Because each person has their own weird ideas or is going to focus on some specific problem, but when you get a lot of people looking you can get a comprehensive critique that is less biased. Write down everything that people say, don't try to memorize it. Whenever I critique a resume I ask people to write things down otherwise there's no point.
 
-Read the section on resumes from the book Cracking the Coding Interview. In general UWaterloo has a pretty good machine for refining resumes into a good format.
+Read the section on resumes from the book [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/). I have a _lot_ of advice to share here, but CTCI explains it pretty well and has a host of other good advice related to jobs. Pirate it if you want, but make sure you purchase it once you start making money.
+
+In general UWaterloo has a pretty good machine for refining resumes into a good format.
 
 Don't listen to any advice from CECA with respect to resumes. They're actively bad and will make your resume worse. They were terrible when I was a student, and by all indications still are.
 
