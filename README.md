@@ -75,7 +75,7 @@ Nice, you got a job! Dedicate yourself to this coop, ask as many questions as yo
 But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Look for projects that have _measureable_ impact and look good. Aim for projects or tasks that lend themselves to interview lines, something that'll get you a "23% faster" or "2x increase in" in your job bullet points. Move the needle on some quantifiable metrics.
 
 ## Misc
-2024 Update: If you browse LinkedIn it's fucking over for you, do not be someone who browses LinkedIn. It's a mind poison that is guaranteed to derail and destroy your career.
+2024 Update: Sometimes people email me and they mention they browse LinkedIn and then they feel bad. Do not be someone who browses LinkedIn. LinkedIn is like a black hole that will waste your time, make you miserable, and destroy your career. Out of all the social media platforms, it's the most damaging.
 
 If this guide helped please let me know. Email me or whatever else works for you. If it didn't help or you disagree, please reach out as well.
 
