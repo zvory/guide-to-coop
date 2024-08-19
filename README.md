@@ -7,7 +7,7 @@ I've helped a lot of people with advice about coop, and a lot of the time the ad
 People who are hungry for more success in the UWaterloo co-op system, specifically people looking for Software jobs. If you're trying to get a job during COVID this guide may not be useful, I hear the job market is terrible and that's all I know. Additionally if you already get good jobs and are happy with your coops, this advice may not be helpful.
 
 ### Why is my advice worth anything?
-I was a fuckup, but "made it" anyways. My first coop was automated QA and I got it through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. A full-time brought his high-schooler son in for two weeks and did more in those two weeks than I did in a month. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping buttons on Android phones, filling in spreadsheets when something breaks, and trying not to think about my failures. I'm not a genius keener that got Google first term or something. I was a lazy waste, and I started with QA jobs. 
+I was a fuckup, but "made it" anyways. My first coop was automated QA and I got it through nepotism (my friend's dad was CTO of the company), it was a shitshow and two months in me and the other coop stopped doing work. A full-time brought his high-schooler son in for two weeks and did more in those two weeks than I did in a month. Second coop was worse: back in the day you couldn't no-rank an offer, if you got matched with a job you were forced to take it. So I ended up doing manual QA, tapping buttons on Android phones, filling in spreadsheets when something broke, and trying not to think about my failures. I'm not a genius keener that got Google first term or something. I was a lazy waste, and I started with QA jobs. 
 
 But then I started taking coop seriously, tried a bunch of things (which I will list), and I ended up getting two successively better Toronto dev jobs. Then I made it to Cali: a Stripe internship, then a Facebook internship (I'm at Stripe full time now).
 
@@ -60,7 +60,9 @@ Most likely you didn't get that sick dev job, and are doing QA, or IT, or someth
 
 It's probably mentally unhealthy to obsess, but success tastes sweet and I fueled my side projects with anxiety about my career and failure. I would see my future stretching out in front of me, constantly doing shit jobs at shit companies, watching all my friends be successful and happy, and that would motivate me. Should you do this? I feel like ethically I can't recommend it, some people reading this might already be super obsessive and neurotic, and this validation they should obsess more will destroy them. I don't want to have someone wracked with anxiety to get even more anxiety after reading this. At the same time when I see people say "don't worry too much" and "you'll get the good coops eventually" I get angry because I hard disagree with that. There is a correct amount of worrying and anxiety, too little is bad, just the same as too much.
 
-I intentionally fed my anxiety, eventually getting nightmares about work, but it worked out for me and it increased my output. I'm mentally healthy and happy, and getting my career started was the first bit of confidence I needed to build the rest of myself up. Coop is great because if you fail you have time to prepare for your next shot, and you get six chances.
+I intentionally fed my anxiety, eventually getting nightmares about work, but it worked out for me and it increased my output. And now because of my early investments in my skills these days I just have a fun time at work every day and have never stressed about my perf rating.
+
+Coop is great because if you fail you have time to prepare for your next shot, and you get six chances.
 
 ### The offer
 If you do get an offer: negotiate. They will _never_ take away your offer because you tried to negotiate. Always ask for a few dollars more, especially if you have a competing offer. Just ask nicely, "Hey, could you increase the salary from 20 to 24 an hour? I would feel a lot more confident about my decision if you could do that for me" or "I have an offer from AutoSoft, and while I would love to work with you, I couldn't justify it if I could get more there". If they say something like "HR won't let me" that's a lie, but you probably don't have enough leverage to negotiate anyway. I used to negotiate for jobs (and return offers) I knew I wasn't going to take just to practice or get better leverage. This advice is more important for fulltime, but it's good to get into the habit now.
@@ -68,11 +70,13 @@ If you do get an offer: negotiate. They will _never_ take away your offer becaus
 It can feel super scary to ask for more, especially if you feel lucky to even get the offer. I too still get scared, but in retrospect it's always worth it to negotiate. More [info for fulltime here (seriously read this shit)](https://www.kalzumeus.com/2012/01/23/salary-negotiation/).
 
 ### On the job
-Nice, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. Looking stupid doesn't matter in the first three months. It's good to be the type of person that asks a lot of basic questions for months, and before you know it, they know everything and people are coming to them for help.
+Nice, you got a job! Dedicate yourself to this coop, ask as many questions as you can, and leech knowledge from your coworkers. Ask for projects you think are too hard for you, and then ask for help. Looking stupid doesn't matter in the first three months. It's good to be the type of person that asks a lot of basic questions for months, and before you know it, you're an expert on a few systems and full-times are coming to you for help.
 
 But also: now is the time to start worrying about your next job. You want to make your resume real nice for your next internship, and the easiest way to do that is to start planning now. Look for projects that have _measureable_ impact and look good. Aim for projects or tasks that lend themselves to interview lines, something that'll get you a "23% faster" or "2x increase in" in your job bullet points. Move the needle on some quantifiable metrics.
 
 ## Misc
+2024 Update: If you browse LinkedIn it's fucking over for you, do not be someone who browses LinkedIn. It's a mind poison that is guaranteed to derail and destroy your career.
+
 If this guide helped please let me know. Email me or whatever else works for you. If it didn't help or you disagree, please reach out as well.
 
 I accept PRs.
